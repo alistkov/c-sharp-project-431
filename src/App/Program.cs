@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Welcome to the Brain Games!");
+﻿using App;
+
+Cli.Greeting();
+
